@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.stars{
+    width: 1.55rem;
+    height: 0.2rem;
+    position: relative;
+    background: url(../images/h.jpg) no-repeat;
+    background-size:100%;
+}
+.stars-l{
+    width:1.55rem;
+    height: 0.2rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: url(../images/l.jpg) no-repeat;
+    background-size:1.55rem 0.2rem;
+}
